@@ -22,24 +22,24 @@ This project provides a robust backend infrastructure for an airline review mobi
 
 
 ## ✨ Features
-User Management – Create and manage user profiles with badges, points, and profile photos
-Airline Reviews – Comprehensive review system with ratings for comfort, cleanliness, service, food, and entertainment
-Airport Reviews – Detailed airport experience reviews and ratings
-Boarding Pass Management – Store and retrieve boarding pass information with PNR validation
-Real-time Scoring – Automated calculation of airline and airport scores based on review data
-WebSocket Support – Real-time updates and notifications for live data synchronization
-Image Upload – Support for multiple image uploads using AWS S3 integration
-Cirium API Integration – Automatic airline and airport data population from external flight data services
-Score History Tracking – Historical score tracking for airlines and airports over time
-Filtered Lists – Advanced filtering for airlines, airports, and review feeds
+**User Management** – Create and manage user profiles with badges, points, and profile photos
+**Airline Reviews** – Comprehensive review system with ratings for comfort, cleanliness, service, food, and entertainment
+**Airport Reviews** – Detailed airport experience reviews and ratings
+**Boarding Pass Management** – Store and retrieve boarding pass information with PNR validation
+**Real-time Scoring** – Automated calculation of airline and airport scores based on review data
+**WebSocket Support** – Real-time updates and notifications for live data synchronization
+**Image Upload** – Support for multiple image uploads using AWS S3 integration
+**Cirium API Integration** – Automatic airline and airport data population from external flight data services
+**Score History Tracking** – Historical score tracking for airlines and airports over time
+**Filtered Lists** – Advanced filtering for airlines, airports, and review feeds
 
 
 
 ## 🧠 Tech Stack
-Languages: JavaScript
-Frameworks: Express.js, Node.js
-Database: MongoDB (Mongoose ODM)
-Tools: WebSocket (ws), AWS SDK, Multer, Axios, CORS, dotenv, Express Validator
+**Languages**: JavaScript
+**Frameworks**: Express.js, Node.js
+**Database**: MongoDB (Mongoose ODM)
+**Tools**: WebSocket (ws), AWS SDK, Multer, Axios, CORS, dotenv, Express Validator
 
 
 
