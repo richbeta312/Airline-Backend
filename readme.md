@@ -3,7 +3,7 @@ A comprehensive backend API for managing airline and airport reviews, user profi
 
 
 
-📚 Table of Contents
+## 📚 Table of Contents
 [About](#about)
 [Features](#features)
 [Tech Stack](#tech-stack)
@@ -16,12 +16,12 @@ A comprehensive backend API for managing airline and airport reviews, user profi
 
 
 
-🧩 About
+## 🧩 About
 This project provides a robust backend infrastructure for an airline review mobile application. It solves the problem of centralized flight experience management by enabling users to create detailed reviews of airlines and airports, track boarding passes, and access real-time scoring data. The backend handles complex data relationships, automated score calculations, and real-time updates through WebSocket connections. Key goals include providing a scalable API architecture, efficient data storage, and seamless integration with external flight data services like Cirium API.
 
 
 
-✨ Features
+## ✨ Features
 User Management – Create and manage user profiles with badges, points, and profile photos
 Airline Reviews – Comprehensive review system with ratings for comfort, cleanliness, service, food, and entertainment
 Airport Reviews – Detailed airport experience reviews and ratings
@@ -35,7 +35,7 @@ Filtered Lists – Advanced filtering for airlines, airports, and review feeds
 
 
 
-🧠 Tech Stack
+## 🧠 Tech Stack
 Languages: JavaScript
 Frameworks: Express.js, Node.js
 Database: MongoDB (Mongoose ODM)
@@ -43,7 +43,7 @@ Tools: WebSocket (ws), AWS SDK, Multer, Axios, CORS, dotenv, Express Validator
 
 
 
-⚙️ Installation
+## ⚙️ Installation
 # Clone the repository
 git clone https://github.com/richbeta312/airline-review-backend.git
 
@@ -56,7 +56,7 @@ npm install
 
 
 
-🚀 Usage
+## 🚀 Usage
 # Start the development server
 npm start
 
@@ -66,7 +66,7 @@ Then open your browser and go to:
 
 
 
-🧾 Configuration
+## 🧾 Configuration
 Create a `.env` file in the root directory with the following environment variables:
 
 PORT=3000
@@ -89,7 +89,7 @@ Example:
 
 
 
-📜 API Documentation
+## 📜 API Documentation
 The API is organized into GET and POST endpoints:
 
 **GET Endpoints:**
@@ -130,7 +130,7 @@ The API is organized into GET and POST endpoints:
 
 
 
-📬 Contact
+## 📬 Contact
 Author: Sora Suzuki
 Email: sorasuzukirich@gmail.com
 GitHub: @richbeta312
@@ -138,7 +138,7 @@ Website/Portfolio: sorasuzuki.vercel.app
 
 
 
-🌟 Acknowledgements
+## 🌟 Acknowledgements
 This project was built using the following open-source libraries and resources:
 
 - **Express.js** – Fast, unopinionated web framework for Node.js
